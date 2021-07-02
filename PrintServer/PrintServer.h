@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 #include"MyData.h"
 #include"Queue.h"
 #include"List.h"
